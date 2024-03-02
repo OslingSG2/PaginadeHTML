@@ -1,4 +1,4 @@
-/* Estilos para el cuerpo de la página */
+
 
 body {
 	color: rgb(0, 253, 0);
@@ -7,7 +7,6 @@ body {
     background: #041d5d url("../imagenes/fondo1.jpg"  ) center ;
 }
 
-/* Estilos para el encabezado */
 header {
     background-color: #333;
     color: #fff;
@@ -15,29 +14,27 @@ header {
     text-align: center;
 }
 
-/* Estilos para el título principal */
+
 h1 {
     margin: 0;
     font-size: 36px;
 }
 
-/* Estilos para el subtítulo */
 h2 {
     margin-top: 10px;
     font-size: 24px;
 }
 
-/* Estilos para el contenido principal */
+
 main {
     padding: 20px;
 }
 
-/* Estilos para las secciones */
+
 section {
     margin-bottom: 20px;
 }
-
-/* Estilos para los enlaces */
+ 
 a {
     color: #007bff;
     text-decoration: none;
@@ -47,7 +44,7 @@ a:hover {
     text-decoration: underline;
 }
 
-/* Estilos para el pie de página */
+
 footer {
     background-color: #333;
     color: #fff;
